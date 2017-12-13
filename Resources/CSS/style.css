@@ -16,3 +16,6 @@ a{font-size: 16px;
 p{font-size: 21px;
   color: gray;
   text-align: center;}
+.footnote{font-size: 21px;
+  color: gray;
+  text-align: right;}
